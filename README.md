@@ -15,4 +15,4 @@ In South Korea, the rapid proliferation of smartphones has led to an uptick in m
 
 Siyoon Kim, JeongMin Park, Hyun Ahn, Yonggeol Lee*
 
-# Bibtex
+# Cite this Work

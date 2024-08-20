@@ -15,3 +15,13 @@ In South Korea, the rapid proliferation of smartphones has led to an uptick in m
 Siyoon Kim, JeongMin Park, Hyun Ahn, Yonggeol Lee*
 
 ## Cite this Work
+@article{kim2024detection,
+  title={Detection of Korean Phishing Messages Using Biased Discriminant Analysis under Extreme Class Imbalance Problem},
+  author={Kim, Siyoon and Park, Jeongmin and Ahn, Hyun and Lee, Yonggeol},
+  journal={Information},
+  volume={15},
+  number={5},
+  pages={265},
+  year={2024},
+  publisher={MDPI}
+}

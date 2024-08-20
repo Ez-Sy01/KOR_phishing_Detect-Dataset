@@ -16,12 +16,12 @@ Siyoon Kim, JeongMin Park, Hyun Ahn, Yonggeol Lee*
 
 ## Cite this Work
 @article{kim2024detection, <br/>
-  title={Detection of Korean Phishing Messages Using Biased Discriminant Analysis under Extreme Class Imbalance Problem}, <br/>
-  author={Kim, Siyoon and Park, Jeongmin and Ahn, Hyun and Lee, Yonggeol}, <br/>
-  journal={Information}, <br/>
-  volume={15}, <br/>
-  number={5}, <br/>
-  pages={265}, <br/>
-  year={2024}, <br/>
-  publisher={MDPI} <br/>
+&#160  title={Detection of Korean Phishing Messages Using Biased Discriminant Analysis under Extreme Class Imbalance Problem}, <br/>
+&#160  author={Kim, Siyoon and Park, Jeongmin and Ahn, Hyun and Lee, Yonggeol}, <br/>
+&#160  journal={Information}, <br/>
+&#160  volume={15}, <br/>
+&#160  number={5}, <br/>
+&#160  pages={265}, <br/>
+&#160  year={2024}, <br/>
+&#160  publisher={MDPI} <br/>
 }
